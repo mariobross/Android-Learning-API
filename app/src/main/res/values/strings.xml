@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Learning API</string>
+    <string name="name">name</string>
+    <string name="address">address</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
